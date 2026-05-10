@@ -33,7 +33,6 @@ This suite demonstrates clean, reusable API testing across user management and a
 - **Reusable API client** (`utils/api_client.py`) for clean, DRY HTTP calls
 - Shared **pytest fixtures** via `conftest.py` to reduce duplication
 - Comprehensive positive and negative test cases
-- Parameterization where appropriate
 - Automated CI pipeline that runs the full suite on every push
 
 ## Project Structure
